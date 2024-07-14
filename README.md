@@ -1,4 +1,4 @@
-# SoftwareTestingProjescts
+# SoftwareTestingProjects
 All Testing Projects(manual)
 
 Project #1 -Testcase and Test plan for App.vwo.com
